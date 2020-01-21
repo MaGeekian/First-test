@@ -3,5 +3,10 @@
 	text-align: center;
 	background: rgb(23, 57, 151);
 	font-size: 32px;
+}
+.main {
+	padding: 50px 100px;
+	background: rgb(37, 128, 57);
+	font-size: 35px;
 	font-family: sans-serif;
 }
